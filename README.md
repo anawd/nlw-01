@@ -9,6 +9,14 @@ Na primeira edição da Next Level Week criamos uma aplicação web e mobile cha
 
 ---
 
+# Recursos
+
+- [x] Criação de pontos de coleta.
+- [x] Utilização de api de mapa para visualização dos pontos de coleta.
+- [x] Filtro para seleção de pontos.
+- [x] Listagem de recursos via api.
+- [x] Interface web e mobile.
+
 ## :rocket: Tecnologias Usadas
 
 O projeto está sendo desenvolvido com as seguintes tecnologias:
